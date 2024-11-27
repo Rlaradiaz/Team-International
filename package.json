@@ -1,0 +1,21 @@
+{
+  "name": "team-international",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cucumber/cucumber": "^11.1.0",
+    "chromedriver": "^131.0.1",
+    "selenium-webdriver": "^4.27.0",
+    "team-international": "file:"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
